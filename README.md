@@ -15,7 +15,7 @@ A base utilizada está disponível no **Google Sheets**:
 
 ## Link do Dashboard
 Arquivo do Power BI (.pbix):  
-[Dashboard](PowerBI/Desempenho Financeiro.pbix)
+[Dashboard](https://github.com/JaquelineMatos/dre-lucratividade-powerbi/blob/main/PowerBI/Desempenho%20Financeiro.pbix)
 
 ## Principais Indicadores
 - **Faturamento Bruto**: Soma das receitas antes de deduções.  
